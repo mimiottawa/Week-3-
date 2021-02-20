@@ -13,3 +13,17 @@ Next:
 *Introduction to Jupyter Notebooks 
 *An Introduction to Python (I keep getting this message: 404 : Not Found You are requesting a page that does not exist!)
 *Install and run Jupyter on your own machine 
+
+
+For the high tech stuff 
+I have been watching some tutorials on Python 
+I learned really simple things such as 
+Set up hello world
+Drawing a shape
+Variables and data types
+Working with strings
+Working with numbers
+Functions
+Pow
+
+
